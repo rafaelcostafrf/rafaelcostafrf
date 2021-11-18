@@ -9,3 +9,5 @@ I'm working with some other side projects as well, mainly with machine learning 
 I'm mainly a Python programmer, with good experience in Numpy, Scipy, Matplotlib, Pytorch, Pandas, OpenCV and Rospy. I also have some knowledge on Keras, Tensorflow and Scikitlearn. I have also worked with C, SQLite, PostgreSQL, Matlab, Simulink and Labview.
 
 My next big project is going to be translating my python packages of quadrotor dynamics and control to a ROS environment, so they can be more easily used, have better performance and a more general use. 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rafaelcostafrf&show_icons=true)
