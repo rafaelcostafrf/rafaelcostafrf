@@ -11,4 +11,4 @@ I'm mainly a Python programmer, with good experience in Numpy, Scipy, Matplotlib
 My next big project is going to be translating my python packages of quadrotor dynamics and control to a ROS environment, so they can be more easily used, have better performance and a more general use. 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rafaelcostafrf&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcostafrf&theme=blue-green)
+![Profile View Counter](https://komarev.com/ghpvc/?username=rafaelcostafrf)
